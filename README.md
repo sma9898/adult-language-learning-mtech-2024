@@ -14,3 +14,13 @@ The dataset looks at adult language learners in the Netherlands, with data on th
 ## Key Insights
 
 ## Visualizations
+
+## Instructions to Run Code
+
+
+
+Write a detailed README that includes:
+* A brief description of the dataset and any motivating questions you had throughout your analysis.
+* A summary of the steps you took (cleaning, manipulation, analysis).
+* Key insights and figures (include screenshots of your visualizations).
+* Instructions on how to run your Python code.
