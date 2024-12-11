@@ -4,6 +4,8 @@
 
 **Source:** https://www.kaggle.com/datasets/thedevastator/adult-language-learning-profile/data
 
+(Originally pulled from: https://zenodo.org/records/2863533#.Y9Y3pNJBwUE )
+
 The dataset looks at adult language learners in the Netherlands, with data on their demographics and their language learning process.
 
 
