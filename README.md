@@ -1,6 +1,4 @@
-# adult-language-learning-mtech-2024
-
-[Write a detailed README]
+# Adult Language Learning Sample Final Project
 
 ## Description of the Dataset
 
@@ -12,6 +10,7 @@ The dataset looks at adult language learners in the Netherlands, with data on th
 * What factors are most correlated with differences in test scores?
 * Is there a difference in scores across different genders?
 * Is there a difference in scores for those who speak more than one language, compared to those who are monolingual?
+* How can I use Python to gain insights into a dataset?
 
 ## Summary of Steps 
 
@@ -40,7 +39,6 @@ The dataset looks at adult language learners in the Netherlands, with data on th
 ![image](https://github.com/user-attachments/assets/fe8cfcaa-6757-44af-aca0-106520b2cfaf)
 ![image](https://github.com/user-attachments/assets/e6b2ff66-df71-4afa-99b5-4d4224e7018d)
 
-
 ## Key Insights
 * Participants who spoke German, Swedish, or Norwegian as their native language had the highest average scores. Notably, these languages also have low morphological and lexical differences compared to Dutch.
 * Women scored 19 points higher on the test on average compared to men.
@@ -49,6 +47,6 @@ The dataset looks at adult language learners in the Netherlands, with data on th
 * The statistical analysis on the correlation between features in this dataset seems to indicate that the differences in a person's native language compared to Dutch are the factors that are most correlated with how well that person performs on the test.
 
 ## Instructions to Run Code
-
-[Instructions on how to run your Python code.]
-* 
+1. Open Python script (Final_Project.ipynb) in Google Colab
+2. Upload data file (stex.csv) to Google Colab notebook
+3. Run Python script in Google Colab
