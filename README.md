@@ -12,7 +12,7 @@
 
 The dataset looks at adult language learners in the Netherlands, with data on their demographics and their language learning process.
 
-Motivating Questions:
+### Motivating Questions:
 
 
 ## Summary of Steps 
@@ -26,17 +26,16 @@ Motivating Questions:
 * I identified some outliers in 4 columns (AaA, LoR, Speaking, and morph) by looking for calculated Z-scores greater than 3. I don't believe these are a result of errors, so I left them in the analysis as-is.
 
 ### Data Manipulation
-
-[Justify Data Manipulation steps]
 * I created a new DataFrame 'L1_group_df' where I grouped the data by the individual's native language (L1) and sorted the data by the average test score (Speaking) from high to low. This way, I could see whether people with different native languages tended to perform differently on the test.
 * I created another DataFrame to look at the average score (Speaking) grouped by gender to see if there was a difference.
-* I also added a new column 'Monolingual' which indicated whether a person was monolingual (L2 listed as 'Monolingual') or multilingual (knew at least 2 languages) before beginning to study Dutch.
+* I also added a new column 'Monolingual' which indicated whether a person was monolingual (L2 listed as 'Monolingual') or multilingual (knew at least 2 languages) before beginning to study Dutch. I wanted to see if this impacted their ability to learn Dutch.
 
 ### Analysis
 
 ## Visualizations
 
 [Key insights and figures (include screenshots of your visualizations).]
+![image](https://github.com/user-attachments/assets/900c3a8b-af9b-4e0e-87f6-4040230acae2)
 
 
 ## Key Insights
