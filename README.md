@@ -42,7 +42,7 @@ The dataset looks at adult language learners in the Netherlands, with data on th
 
 
 ## Key Insights
-* Participants who spoke German, Swedish, or Norweigian as their native language had the highest average scores. Notably, these languages also have low morphological and lexical differences compared to Dutch.
+* Participants who spoke German, Swedish, or Norwegian as their native language had the highest average scores. Notably, these languages also have low morphological and lexical differences compared to Dutch.
 * Women scored 19 points higher on the test on average compared to men.
 * 81.9% of the people in this study spoke at least 2 languages before learning Dutch, but this did not have a noticeable effect on their test scores compared to monolingual people learning Dutch (9 points difference on average).
 * Test scores were higher for individuals who spoke languages that had fewer morphological, lexical, and phonological similarities to Dutch.
